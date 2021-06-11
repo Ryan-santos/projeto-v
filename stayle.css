@@ -1,0 +1,33 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    padding-left: 10%;
+    padding-right: 10%;
+    background: linear-gradient(-60.76deg, rgb(150, 121, 255) 0%, rgb(212, 153, 234) 57.96%, rgb(238, 164, 179) 100%);
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3rem;
+    background-image: linear-gradient(rgb(254, 102, 125), rgb(255, 163, 117));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+.sub-title{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+footer {
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: 1rem;
+}
